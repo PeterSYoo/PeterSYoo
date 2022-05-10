@@ -6,10 +6,10 @@ Hi! 👋🏼 , my name is Peter Yoo and I reside in sunny Los Angeles. I'm trans
 - Loves everything Matcha 🍵
 
 ## Currently Learning
-👀 MERN Stack
+👀 &nbsp;MERN Stack
 
 ## Want To Learn
-👾 RUST 🐍 Python
+👾 &nbsp;RUST &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python
 
 ## One Day I Hope To
 - Be a full time Backend Developer

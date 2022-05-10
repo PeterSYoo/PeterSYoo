@@ -17,7 +17,7 @@ Hi! 👋🏼 , my name is Peter Yoo and I reside in ☀️ Los Angeles. I'm tran
 - Teach coding to people who don't have access to education
 
 ## Current GitHub Projects
-📚 &nbsp;[Random Book Genre Generator](https://github.com/PeterSYoo/randomBookGenreGenerator)
+&nbsp;&nbsp;&nbsp;📚 &nbsp;[Random Book Genre Generator](https://github.com/PeterSYoo/randomBookGenreGenerator)
 
 ## Future Projects I Want To Work On
 &nbsp;&nbsp;&nbsp;🤖 &nbsp; A Discord Bot that provides live commentary on your game(ex. Valorant).

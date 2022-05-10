@@ -20,4 +20,4 @@
 &nbsp;&nbsp;&nbsp;📚 &nbsp;[Random Book Genre Generator](https://github.com/PeterSYoo/randomBookGenreGenerator)
 
 ### Future Projects I Want To Work On
-&nbsp;&nbsp;&nbsp;🤖 &nbsp; A Discord Bot that provides live commentary on your game(ex. Valorant)
+&nbsp;&nbsp;&nbsp;🤖 &nbsp; A Discord Bot that provides live data of the matches being played by your friends or yourself. (ex Valorant)

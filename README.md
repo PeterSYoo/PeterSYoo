@@ -6,7 +6,7 @@ Hi! 👋🏼 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los
 - Loves everything Matcha 🍵
 
 ### Currently Learning
-&nbsp;&nbsp;&nbsp;👀 &nbsp;MERN Stack
+&nbsp;&nbsp;&nbsp; 👀 &nbsp;MERN Stack
 
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; ☕ &nbsp;Java &nbsp;&nbsp;&nbsp; 👾 &nbsp;RUST
@@ -17,7 +17,7 @@ Hi! 👋🏼 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
-&nbsp;&nbsp;&nbsp;📚 &nbsp;[Random Book Genre Generator](https://github.com/PeterSYoo/randomBookGenreGenerator)
+&nbsp;&nbsp;&nbsp; 📚 &nbsp;[Random Book Genre Generator](https://github.com/PeterSYoo/randomBookGenreGenerator)
 
 ### Future Projects I Want To Work On
-&nbsp;&nbsp;&nbsp;🤖 &nbsp; A Discord Bot that provides live data of the matches being played by your friends or yourself. (ex Valorant)
+&nbsp;&nbsp;&nbsp; 🤖 &nbsp; A Discord Bot that provides live data of the matches being played by your friends or yourself. (ex Valorant)

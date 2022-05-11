@@ -12,7 +12,7 @@ Hi! 👋🏼 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los
 &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; ☕ &nbsp;Java &nbsp;&nbsp;&nbsp; 👾 &nbsp;RUST
 
 ### One Day I Hope To
-- Be a full time Cloud Engineer
+- Be a full time Backend Developer
 - Adopt more pets
 - Teach coding to people who don't have access to education
 

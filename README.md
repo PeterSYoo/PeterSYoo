@@ -18,6 +18,3 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 
 ### Current GitHub Projects
 &nbsp;&nbsp;&nbsp; 🛹 &nbsp;[Skate React - Lead Frontend Developer](https://github.com/abacqu/skate-shop-frontend) &nbsp;&nbsp;&nbsp; 🍜 &nbsp;[Tteok Bowl](https://github.com/PeterSYoo/tteokBowl) &nbsp;&nbsp;&nbsp; 📚 &nbsp;[Random Lit](https://github.com/PeterSYoo/randomBookGenreGenerator)
-
-### Future Projects I Want To Work On
-&nbsp;&nbsp;&nbsp; 🤖 &nbsp; A Discord Bot that provides live data of the matches being played by your friends or yourself. (ex Valorant)

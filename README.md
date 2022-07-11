@@ -16,6 +16,8 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
+&nbsp;&nbsp;&nbsp; 🦜 &nbsp;&nbsp;&nbsp;[Finch Collector](https://github.com/PeterSYoo/finch_collector)
+
 &nbsp;&nbsp;&nbsp; 👋 &nbsp;&nbsp;&nbsp;[Greetr Framework/Library](https://github.com/PeterSYoo/greetr-framework)
 
 &nbsp;&nbsp;&nbsp; 🛹 &nbsp;&nbsp;&nbsp;[Skate React - Lead Frontend Developer](https://github.com/abacqu/skate-shop-frontend) 

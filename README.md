@@ -6,7 +6,7 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 - Loves everything Matcha 🍵
 
 ### Currently Learning
-&nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PERN Stack &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django
+&nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PERN Stack &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript
 
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; ☕ &nbsp;Java &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST

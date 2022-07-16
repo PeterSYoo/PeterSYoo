@@ -5,7 +5,7 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 - Previously worked in the Animation industry as a Storyboard Artist
 - Loves everything Matcha 🍵
 
-### Currently Learning
+### Current Toolkit
 &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PERN Stack &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript
 
 ### Wants To Learn

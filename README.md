@@ -19,7 +19,7 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 
 &nbsp;&nbsp;&nbsp; 📝 &nbsp;&nbsp;&nbsp;[Code Journal](https://github.com/PeterSYoo/code-journal)
 
-&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[Task Tracker](https://github.com/PeterSYoo/task_tracker)
+&nbsp;&nbsp;&nbsp; ⏱️ &nbsp;&nbsp;&nbsp;[Task Tracker](https://github.com/PeterSYoo/task_tracker)
 
 &nbsp;&nbsp;&nbsp; 🦜 &nbsp;&nbsp;&nbsp;[Finch Collector](https://github.com/PeterSYoo/finch_collector)
 

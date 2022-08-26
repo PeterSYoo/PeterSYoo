@@ -17,6 +17,8 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 
 ### Current GitHub Projects
 
+&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[My Blog](https://github.com/PeterSYoo/nextjs-blog-v2)
+
 &nbsp;&nbsp;&nbsp; 📝 &nbsp;&nbsp;&nbsp;[Code Journal](https://github.com/PeterSYoo/code-journal)
 
 &nbsp;&nbsp;&nbsp; ⏱️ &nbsp;&nbsp;&nbsp;[Task Tracker](https://github.com/PeterSYoo/task_tracker)

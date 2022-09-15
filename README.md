@@ -16,6 +16,7 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
+&nbsp;&nbsp;&nbsp; 🏨 &nbsp;&nbsp;&nbsp;[Hotel Booking App](https://github.com/PeterSYoo/Hotel-Booking-App-with-Nextjs-Typescript-and-TailwindCss)
 
 &nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[My Blog](https://github.com/PeterSYoo/nextjs-blog-v2)
 

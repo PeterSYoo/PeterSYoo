@@ -8,6 +8,8 @@ Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Ang
 ### Current Toolkit
 &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
 

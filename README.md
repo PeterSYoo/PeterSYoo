@@ -1,6 +1,6 @@
 Hi! 👋 , my name is Peter Yoo, Korean-American, and I reside in ☀️ Los Angeles. I'm transitioning careers from Art ➡️ Tech. I started this journey back in March 2022 when I was first introduced to JavaScript and haven't stopped running since. I am always open to feedback on any of my projects and I want to learn as much as possible. Feel free to contact me anytime @ [petersyoox@gmail.com](petersyoox@gmail.com) and check out my [portfolio](https://petersyoo.netlify.app/) and [blog](https://peters-blog.vercel.app/).
 
-Currently doing an advanced React bootcamp covering NextJS, TypeScript, TailwindCSS, Hooks/Custom Hooks, React Query, Zustand, React Testing Library.
+Since graduating General Assembly’s Bootcamp at the end of July 2022, I independently started learning new languages, libraries, and frameworks such as TypeScript, NextJS, TailwindCSS, React Query, Zustand, Jest, and React Testing Library.
 
 ### About Me
 - Graduated from General Assembly's Software Engineering Immersive - (May 2022 - Jul 2022)

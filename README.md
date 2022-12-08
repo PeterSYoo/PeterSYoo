@@ -20,6 +20,8 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
+&nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
+
 &nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[My Blog](https://github.com/PeterSYoo/nextjs-blog-v2)
 
 &nbsp;&nbsp;&nbsp; 💼 &nbsp;&nbsp;&nbsp;[My Portfolio](https://github.com/PeterSYoo/portfolio-v2)

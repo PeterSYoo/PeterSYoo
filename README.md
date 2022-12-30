@@ -8,18 +8,18 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 - Loves everything Matcha 🍵
 
 ### Current Toolkit
-&nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp;
+🥂 &nbsp;TypeScript &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wants To Learn
-&nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
+🦀 &nbsp;RUST
 
 ### One Day I Hope To
 - Adopt more pets
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
-&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
+🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
 &nbsp;&nbsp;&nbsp; 📚 &nbsp;&nbsp;&nbsp;[Random Lit](https://github.com/PeterSYoo/randomBookGenreGenerator) 

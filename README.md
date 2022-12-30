@@ -23,4 +23,5 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
 &nbsp;&nbsp;&nbsp; 🏨 &nbsp;&nbsp;&nbsp;[Trip Guide](https://github.com/PeterSYoo/Hotel-Booking-App-with-Nextjs-Typescript-and-TailwindCss)
+&nbsp;&nbsp;&nbsp; 📝 &nbsp;&nbsp;&nbsp;[Code Journal](https://github.com/PeterSYoo/code-journal)
 &nbsp;&nbsp;&nbsp; 📚 &nbsp;&nbsp;&nbsp;[Random Lit](https://github.com/PeterSYoo/randomBookGenreGenerator) 

@@ -20,7 +20,7 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
-🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
+&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
 

@@ -8,7 +8,7 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 - Loves everything Matcha 🍵
 
 ### Current Toolkit
-&nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS
+&nbsp;&nbsp;&nbsp; 🥂 &nbsp;TypeScript &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,22 +20,6 @@ Since graduating General Assembly’s Bootcamp at the end of July 2022, I indepe
 - Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
+&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
-
-&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[My Blog](https://github.com/PeterSYoo/nextjs-blog-v2)
-
-&nbsp;&nbsp;&nbsp; 💼 &nbsp;&nbsp;&nbsp;[My Portfolio](https://github.com/PeterSYoo/portfolio-v2)
-
-&nbsp;&nbsp;&nbsp; 📝 &nbsp;&nbsp;&nbsp;[Code Journal](https://github.com/PeterSYoo/code-journal)
-
-&nbsp;&nbsp;&nbsp; ⏱️ &nbsp;&nbsp;&nbsp;[Task Tracker](https://github.com/PeterSYoo/task_tracker)
-
-&nbsp;&nbsp;&nbsp; 🦜 &nbsp;&nbsp;&nbsp;[Finch Collector](https://github.com/PeterSYoo/finch_collector)
-
-&nbsp;&nbsp;&nbsp; 👋 &nbsp;&nbsp;&nbsp;[Greetr Framework/Library](https://github.com/PeterSYoo/greetr-framework)
-
-&nbsp;&nbsp;&nbsp; 🛹 &nbsp;&nbsp;&nbsp;[Skate React - Lead Frontend Developer](https://github.com/abacqu/skate-shop-frontend) 
-
-&nbsp;&nbsp;&nbsp; 🍜 &nbsp;&nbsp;&nbsp;[Tteok Bowl](https://github.com/PeterSYoo/tteokBowl) 
-
 &nbsp;&nbsp;&nbsp; 📚 &nbsp;&nbsp;&nbsp;[Random Lit](https://github.com/PeterSYoo/randomBookGenreGenerator) 

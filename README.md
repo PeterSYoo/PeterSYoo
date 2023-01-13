@@ -36,7 +36,6 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 ### One Day I Hope To
 - Adopt more pets
-- Teach coding to people who don't have access to education
 
 ### Current GitHub Projects
 &nbsp;&nbsp;&nbsp; 📙 &nbsp;&nbsp;&nbsp;[JavaScript Notes](https://github.com/PeterSYoo/javascript-notes-nextjs-tailwind)

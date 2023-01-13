@@ -33,6 +33,7 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; ⚙️ &nbsp;tRPC
+
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
 
 ### One Day I Hope To

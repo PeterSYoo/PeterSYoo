@@ -20,8 +20,6 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack &nbsp;&nbsp;&nbsp;
-
 &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp;
@@ -35,6 +33,8 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 &nbsp;&nbsp;&nbsp; ⚙️ &nbsp;tRPC
 
 &nbsp;&nbsp;&nbsp;&nbsp; ◭ &nbsp;&nbsp;Prisma
+
+&nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack
 
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
 

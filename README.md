@@ -44,8 +44,6 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 - Adopt more pets
 
 ### Current GitHub Projects
-&nbsp;&nbsp;&nbsp; 📙 &nbsp;&nbsp;&nbsp;[JavaScript Notes](https://github.com/PeterSYoo/javascript-notes-nextjs-tailwind)
-
 &nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
@@ -55,3 +53,5 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 &nbsp;&nbsp;&nbsp; 📝 &nbsp;&nbsp;&nbsp;[Code Journal](https://github.com/PeterSYoo/code-journal)
 
 &nbsp;&nbsp;&nbsp; 📚 &nbsp;&nbsp;&nbsp;[Random Lit](https://github.com/PeterSYoo/randomBookGenreGenerator) 
+
+&nbsp;&nbsp;&nbsp; 📙 &nbsp;&nbsp;&nbsp;[JavaScript Notes](https://github.com/PeterSYoo/javascript-notes-nextjs-tailwind)

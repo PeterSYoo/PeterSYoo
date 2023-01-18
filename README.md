@@ -34,6 +34,8 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp;&nbsp; ◭ &nbsp;&nbsp;Prisma
 
+&nbsp;&nbsp;&nbsp; 🇿 &nbsp;Zod
+
 &nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack
 
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST

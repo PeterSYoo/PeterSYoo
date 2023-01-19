@@ -12,7 +12,7 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp; 💨 &nbsp;TailwindCSS &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; 💨 &nbsp;Tailwind CSS &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp; ✿ &nbsp;&nbsp;React Query &nbsp;&nbsp;&nbsp;
 

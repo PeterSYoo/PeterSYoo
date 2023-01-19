@@ -14,7 +14,7 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp; 💨 &nbsp;Tailwind CSS &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp; ✿ &nbsp;&nbsp;React Query &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; ✿ &nbsp;&nbsp;TanStack Query &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp; 🐻 &nbsp;Zustand &nbsp;&nbsp;&nbsp;
 

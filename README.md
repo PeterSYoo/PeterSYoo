@@ -22,6 +22,8 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp;
 
+&nbsp;&nbsp;&nbsp;&nbsp; ◭ &nbsp;&nbsp;Prisma
+
 &nbsp;&nbsp;&nbsp; 🐍 &nbsp;Python &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp; 🐸 &nbsp;Django &nbsp;&nbsp;&nbsp;
@@ -31,8 +33,6 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; ⚙️ &nbsp;tRPC
-
-&nbsp;&nbsp;&nbsp;&nbsp; ◭ &nbsp;&nbsp;Prisma
 
 &nbsp;&nbsp;&nbsp; 🇿 &nbsp;Zod
 

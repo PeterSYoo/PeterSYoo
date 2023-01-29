@@ -18,6 +18,8 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 
 &nbsp;&nbsp;&nbsp; 🐻 &nbsp;Zustand &nbsp;&nbsp;&nbsp;
 
+&nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack
+
 &nbsp;&nbsp;&nbsp; 🍃 &nbsp;MERN Stack &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp; 🐘 &nbsp;PostgreSQL &nbsp;&nbsp;&nbsp;
@@ -32,13 +34,12 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wants To Learn
-&nbsp;&nbsp;&nbsp; ⚙️ &nbsp;tRPC
-
-&nbsp;&nbsp;&nbsp; 🇿 &nbsp;Zod
-
-&nbsp;&nbsp;&nbsp; 🇹 &nbsp;T3 Stack
 
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
+
+&nbsp;&nbsp;&nbsp; 🕸️ &nbsp;GraphQL
+
+&nbsp;&nbsp;&nbsp; 🪐 &nbsp;Apollo
 
 ### One Day I Hope To
 - Adopt more pets

@@ -45,6 +45,8 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 - Adopt more pets
 
 ### Current GitHub Projects
+&nbsp;&nbsp;&nbsp; 📹 &nbsp;&nbsp;&nbsp;[TalkThru](https://github.com/PeterSYoo/talkthru-frontend)
+
 &nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[Tickersaver](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)

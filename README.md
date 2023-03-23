@@ -45,14 +45,14 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 - Adopt more pets
 
 ### Current GitHub Projects
-&nbsp;&nbsp;&nbsp; 🥘 &nbsp;&nbsp;&nbsp;[PrepMeal AI - T3 Stack · PostreSQL](https://github.com/PeterSYoo/prepmealai-t3)
+&nbsp;&nbsp;&nbsp; 🥘 &nbsp;&nbsp;&nbsp;[PrepMeal AI · T3 Stack, PostreSQL](https://github.com/PeterSYoo/prepmealai-t3)
 
-&nbsp;&nbsp;&nbsp; 📹 &nbsp;&nbsp;&nbsp;[TalkThru - Vite · Express · PlanetScale](https://github.com/PeterSYoo/talkthru-frontend)
+&nbsp;&nbsp;&nbsp; 📹 &nbsp;&nbsp;&nbsp;[TalkThru · Vite, Express, PlanetScale](https://github.com/PeterSYoo/talkthru-frontend)
 
-&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle - NextJS · MongoDB](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
+&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle · NextJS, MongoDB](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
 
-&nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[StockSaver - NextJS · MongoDB](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
+&nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[StockSaver · NextJS, MongoDB](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
 
-&nbsp;&nbsp;&nbsp; 🏨 &nbsp;&nbsp;&nbsp;[Trip Guide - NextJS](https://github.com/PeterSYoo/Hotel-Booking-App-with-Nextjs-Typescript-and-TailwindCss)
+&nbsp;&nbsp;&nbsp; 🏨 &nbsp;&nbsp;&nbsp;[Trip Guide · NextJS](https://github.com/PeterSYoo/Hotel-Booking-App-with-Nextjs-Typescript-and-TailwindCss)
 
 &nbsp;&nbsp;&nbsp; 📙 &nbsp;&nbsp;&nbsp;[JavaScript Notes](https://github.com/PeterSYoo/javascript-notes-nextjs-tailwind)

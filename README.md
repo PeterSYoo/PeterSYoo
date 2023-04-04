@@ -54,5 +54,3 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 &nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[StockSaver · NextJS, MongoDB](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
 
 &nbsp;&nbsp;&nbsp; 🏨 &nbsp;&nbsp;&nbsp;[Trip Guide · NextJS](https://github.com/PeterSYoo/Hotel-Booking-App-with-Nextjs-Typescript-and-TailwindCss)
-
-&nbsp;&nbsp;&nbsp; 📙 &nbsp;&nbsp;&nbsp;[JavaScript Notes](https://github.com/PeterSYoo/javascript-notes-nextjs-tailwind)

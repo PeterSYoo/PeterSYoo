@@ -34,6 +34,7 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wants To Learn
+&nbsp;&nbsp;&nbsp; 🟥 &nbsp;Redis / Upstash
 
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
 

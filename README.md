@@ -45,9 +45,9 @@ Since graduating from General Assembly's Bootcamp in July 2022, I have been inde
 - Adopt more pets
 
 ### Current GitHub Projects
-&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[NoteDown AI · T3 Stack, PostreSQL, Supabase](https://github.com/PeterSYoo/notedownai-t3)
+&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[NoteDown AI · T3 Stack, PostgreSQL, Supabase](https://github.com/PeterSYoo/notedownai-t3)
 
-&nbsp;&nbsp;&nbsp; 🥘 &nbsp;&nbsp;&nbsp;[PrepMeal AI · T3 Stack, PostreSQL, Supabase](https://github.com/PeterSYoo/prepmealai-t3)
+&nbsp;&nbsp;&nbsp; 🥘 &nbsp;&nbsp;&nbsp;[PrepMeal AI · T3 Stack, PostgreSQL, Supabase](https://github.com/PeterSYoo/prepmealai-t3)
 
 &nbsp;&nbsp;&nbsp; 📹 &nbsp;&nbsp;&nbsp;[TalkThru · Vite, Express, PlanetScale](https://github.com/PeterSYoo/talkthru-frontend)
 

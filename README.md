@@ -9,6 +9,8 @@ Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles a
 
 &nbsp;&nbsp;&nbsp; 🇳 &nbsp;NextJS &nbsp;&nbsp;&nbsp;
 
+&nbsp;&nbsp;&nbsp; 🇻 &nbsp;Vue.js &nbsp;&nbsp;&nbsp;
+
 &nbsp;&nbsp;&nbsp; 💨 &nbsp;Tailwind CSS &nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp; ✿ &nbsp;&nbsp;TanStack Query &nbsp;&nbsp;&nbsp;

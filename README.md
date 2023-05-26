@@ -1,9 +1,6 @@
-Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles. I am currently in the process of transitioning from a career in art to one in tech. I am always open to feedback on my projects and am eager to continue learning as much as possible. If you'd like to contact me, you can reach me at [petersyoox@gmail.com](petersyoox@gmail.com).
-
-Since graduating from General Assembly's Bootcamp in July 2022, I have been independently learning and experimenting with new technologies such as TypeScript, NextJS, Tailwind CSS, TanStack Query, Zustand, WebSockets, WebRTC, T3 Stack, PlanetScale, etc.
+Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles and working as a Software Developer.
 
 ### About Me
-- Graduated from General Assembly's Software Engineering Immersive - (May 2022 - Jul 2022)
 - Previously worked in the Animation industry as a Storyboard Artist
 - Loves everything Matcha 🍵
 

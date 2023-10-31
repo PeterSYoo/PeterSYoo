@@ -35,11 +35,9 @@ Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles a
 ### Wants To Learn
 &nbsp;&nbsp;&nbsp; 🟥 &nbsp;Redis / Upstash
 
+&nbsp;&nbsp;&nbsp; 🏃 &nbsp;Go
+
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
-
-&nbsp;&nbsp;&nbsp; 🕸️ &nbsp;GraphQL
-
-&nbsp;&nbsp;&nbsp; 🪐 &nbsp;Apollo
 
 ### One Day I Hope To
 - Adopt more pets

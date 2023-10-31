@@ -33,8 +33,6 @@ Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wants To Learn
-&nbsp;&nbsp;&nbsp; 🟥 &nbsp;Redis / Upstash
-
 &nbsp;&nbsp;&nbsp; 🏃 &nbsp;&nbsp;Go
 
 &nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST

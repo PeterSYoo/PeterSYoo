@@ -31,22 +31,3 @@ Hi! 👋 My name is Peter Yoo and I am a Korean-American living in Los Angeles a
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersyoo&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Wants To Learn
-&nbsp;&nbsp;&nbsp; 🏃 &nbsp;&nbsp;Go
-
-&nbsp;&nbsp;&nbsp; 🦀 &nbsp;RUST
-
-### One Day I Hope To
-- Adopt more pets
-
-### Current GitHub Projects
-&nbsp;&nbsp;&nbsp; ✍️ &nbsp;&nbsp;&nbsp;[NoteDown AI · T3 Stack, PostgreSQL, Supabase](https://github.com/PeterSYoo/notedownai-t3)
-
-&nbsp;&nbsp;&nbsp; 🥘 &nbsp;&nbsp;&nbsp;[PrepMeal AI · T3 Stack, PostgreSQL, Supabase](https://github.com/PeterSYoo/prepmealai-t3)
-
-&nbsp;&nbsp;&nbsp; 📹 &nbsp;&nbsp;&nbsp;[TalkThru · Vite, Express, PlanetScale](https://github.com/PeterSYoo/talkthru-frontend)
-
-&nbsp;&nbsp;&nbsp; 🎨 &nbsp;&nbsp;&nbsp;[Nudoodle · NextJS, MongoDB](https://github.com/PeterSYoo/doodlezilla-nextjs-tailwind)
-
-&nbsp;&nbsp;&nbsp; 📈 &nbsp;&nbsp;&nbsp;[StockSaver · NextJS, MongoDB](https://github.com/PeterSYoo/stocksaver-nextjs-tailwind)
